@@ -1,6 +1,8 @@
 #Importação de Módulos e Bibliotecas
 import pygame
 
+Exemplo de teste
+
 #Inicialização do módulo Pygame
 pygame.init()
 pygame.display.init()
