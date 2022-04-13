@@ -48,7 +48,7 @@ while tela_ativa:
     tela.fill((0, 0, 0)) #Define como fundo preto
 
     #Desenha um objeto na tela
-    pygame.draw.circle(tela, (150, 10, 255), (pos_uno_x, pos_uno_y), 30)
+    pygame.draw.circle(tela, (250, 250, 0), (pos_uno_x, pos_uno_y), 30)
 
     #Atualiza a tela com os comandos e movimentos
     pygame.display.update()
